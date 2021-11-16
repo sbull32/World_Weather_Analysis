@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-MOdule 6
+Module 6
 
 ## Overview
 To use google map's API to retrieve weather data from random cities across the globe and then to create various travel maps and itineraries based on specified preferences
