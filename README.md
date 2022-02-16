@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-Module 6
+Use Python, Matplotlib, JSON and third-party APIs to collect, clean and visualize weather data
 
 ## Overview
 To use google map's API to retrieve weather data from random cities across the globe and then to create various travel maps and itineraries based on specified preferences
